@@ -22,7 +22,7 @@ public class AppManager {
         wd.manage().window().maximize();
 
         wd.get("https://vk.com");
-        sessionHelper.login("89189395356", "DIMA551862");
+        sessionHelper.login("8916786786786", "***********");
     }
 
     public void stop() {
